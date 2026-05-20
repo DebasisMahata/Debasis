@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/DebasisMahata/Debasis/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/DebasisMahata/Debasis/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DebasisMahata/Debasis/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DebasisMahata/Debasis/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
