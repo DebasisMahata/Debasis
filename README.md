@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/DebasisMahata/Debasis/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/DebasisMahata/Debasis/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DebasisMahata/Debasis/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
