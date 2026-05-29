@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DebasisMahata/Debasis/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/DebasisMahata/Debasis/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/DebasisMahata/Debasis/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/DebasisMahata/Debasis/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/DebasisMahata/Debasis/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/DebasisMahata/Debasis/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
